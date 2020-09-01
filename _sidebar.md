@@ -9,6 +9,8 @@
   - [POST FORGET PASSWORD RESET USER](account/forget_password_reset.md)
   - [GET ORDER LIST](account/order_list.md)
   - [GET ORDER DETAIL](account/order_detail.md)
+  - [POST BILLING ADDRESS USER](account/billing_user.md)
+  - [POST SHIPPING ADDRESS USER](account/shipping_user.md)
 - **WAREHOUSE & LOCATION**
   - [GET LOCATIONS](locations/locations.md)
   - [GET LOCATION DETAIL](locations/location.md)
@@ -28,4 +30,5 @@
   - [GET COLLECTION](categories/collection.md)
   - [GET PROMOS](categories/promos.md)
   - [GET PROMO](categories/promo.md)
-  - 
+- **SHOPPING**
+  - [POST PURCHASE ORDER](shopping/purchase.md)
