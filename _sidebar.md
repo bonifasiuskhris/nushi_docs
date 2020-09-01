@@ -1,0 +1,31 @@
+- [HOME](/)
+- **ACCOUNT**
+  - [POST USER REGISTRATION](account/register_user.md)
+  - [POST USER LOGIN](account/login_user.md)
+  - [POST USER PROFILE](account/profile_user.md)
+  - [POST USER CHANGE PASSWORD](account/change_password_user.md)
+  - [POST USER CHANGE DETAIL](account/change_detail_user.md)
+  - [POST FORGET PASSWORD EMAIL USER](account/forget_password_email.md)
+  - [POST FORGET PASSWORD RESET USER](account/forget_password_reset.md)
+  - [GET ORDER LIST](account/order_list.md)
+  - [GET ORDER DETAIL](account/order_detail.md)
+- **WAREHOUSE & LOCATION**
+  - [GET LOCATIONS](locations/locations.md)
+  - [GET LOCATION DETAIL](locations/location.md)
+  - [GET WAREHOUSES](locations/warehouses.md)
+  - [GET WAREHOUSE DETAIL](locations/warehouse.md)
+  - [GET STOCK ALL WAREHOUSE](locations/warestock.md)
+- **PRODUCTS**
+  - [GET PRODUCTS](products/products.md)
+  - [GET PRODUCT](products/product.md)
+  - [POST SEARCH](products/search.md)
+- **CATEGORIES & SECTIONS**
+  - [GET SECTIONS](categories/sections.md)
+  - [GET PRODUCT SECTION](categories/section_product.md)
+  - [GET CATEGORIES](categories/categories.md)
+  - [GET CATEGORY](categories/category.md)
+  - [GET COLLECTIONS](categories/collections.md)
+  - [GET COLLECTION](categories/collection.md)
+  - [GET PROMOS](categories/promos.md)
+  - [GET PROMO](categories/promo.md)
+  - 
