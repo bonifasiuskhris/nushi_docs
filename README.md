@@ -1,4 +1,4 @@
-# Global Variable
+# NUSHINUSHI.ID API
 
 > Global Variable for all request
 
