@@ -32,3 +32,4 @@
   - [GET PROMO](categories/promo.md)
 - **SHOPPING**
   - [POST PURCHASE ORDER](shopping/purchase.md)
+  - [GET COURIER WAREHOUSE](shopping/courier.md)
